@@ -151,7 +151,8 @@ status open
 \begin_inset Caption
 
 \begin_layout Plain Layout
-Zaporedje IR slik, ki jih je posnel robotek na svoji poti
+Zaporedje IR slik, ki jih je posnel robotek na svoji poti.
+ Vse slike so orientirane v isti smeri (in ne v smeri robota) 
 \end_layout
 
 \end_inset
@@ -176,17 +177,16 @@ Spodaj so predstavljene izoterme v robotkovi garaži in zaporedje korakov,
 \begin_layout Standard
 \align center
 \begin_inset Float figure
+placement H
 wide false
 sideways false
 status collapsed
 
 \begin_layout Plain Layout
-
-\end_layout
-
-\begin_layout Plain Layout
+\align center
 \begin_inset Graphics
 	filename Gradienti_files/Gradienti_8_1.png
+	width 40text%
 
 \end_inset
 
